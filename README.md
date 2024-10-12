@@ -7,7 +7,7 @@
 ## Installation
 
 ```sh
-pip install hr_app
+pip install small-small-hr
 ```
 
 ## Features
