@@ -1,4 +1,4 @@
-# small-small-hr
+# HR Management system
 
 [![Build Status](https://travis-ci.org/moshthepitt/small-small-hr.svg?branch=master)](https://travis-ci.org/moshthepitt/small-small-hr)
 
@@ -7,7 +7,7 @@
 ## Installation
 
 ```sh
-pip install small-small-hr
+pip install Hr_app
 ```
 
 ## Features
