@@ -7,7 +7,7 @@
 ## Installation
 
 ```sh
-pip install Hr_app
+pip install hr_app
 ```
 
 ## Features
